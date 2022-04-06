@@ -1,0 +1,5 @@
+Utang = Kita punya utang ke orang lain
+Piutang = Orang lain punya utang ke kita
+
+Laba Rugi = Income Statement
+Neraca = Balance Sheet
