@@ -1,12 +1,29 @@
-I Resto
-Oke Juragan
+*Kas Perusahaan*
+Kas Besar
+Kas Kecil
+Kas Kasir
 
-Untuk mancing
+*Aset Tetap*
+Tanah
+Peralatan Kantor
+Peralatan Kitchen
+Gedung Bangunan
+Kendaraan
+Peralatan Kantor Lainnya
 
-Setiap hari sabtu pindah ke Senin pukul 15:30-18:00
-HHH
-Dosen 1
-Dosen 2
-Vendor
+*Perlengkapan*
+Lisensi/Hak Paten
+Perlengkapan Outlet
+Perlengkapan Kantor
+Perlengkapan Produksi
 
-RPS
+*Akumulasi Penyusutan*
+Akumulasi Penyusutan Kantor
+Akumulasi Penyusutan Peralatan Kitchen
+Akumulasi Penyusutan Kendaraan
+Akumulasi Penyusutan Peralatan Kantor Lainnya
+
+*Expenses*
+Beban Penyusutan Peralatan Kantor
+Beban Penyusutan Peralatan Kitchen
+Beban Penyusutan Kendaraan
