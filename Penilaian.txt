@@ -13,5 +13,3 @@ Telat
 = 6 hari 62
 = 7 hari 56
 Mengumpulkan modul asdos 56
-
-Modul 2 tanggal 17 pukul 23:59 
